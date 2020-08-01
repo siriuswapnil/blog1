@@ -30,9 +30,18 @@ Provided the past prices and the house area, the algorithm can predict for a giv
 
 
 ## Unsupervised Learning
+No preexisting labels. This is the fundamental difference.
+In unsupervised learning, prediction is done using modelling of probability densities over provided inputs, rather than making use of human labelled data.
+
+The main methods used in unsupervised learning are : 
+- Pricipal Component Analysis
+- Cluster Analysis
 
 
-
-### Reinforcement Learing
+### Reinforcement Learning
+Straight copied from Wikipedia :
+`
+Reinforcement learning differs from supervised learning in not needing labelled input/output pairs be presented, and in not needing sub-optimal actions to be explicitly corrected. Instead the focus is on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
+`
 
 
