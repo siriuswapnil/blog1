@@ -1,7 +1,7 @@
 ---
 title: "Daily Log #1"
 date: 2020-08-01T13:38:38+05:30
-draft: true
+draft: false
 category:  
 - personal
 - life
