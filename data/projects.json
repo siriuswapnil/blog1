@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"ShopSafe",
+      "url":"https://github.com/siriuswapnil",
+      "desc":"The world’s fastest framework for building websites."
+    },
+    {
+      "name":"NodeJS REST API with JWT Auth",
+      "url":"https://github.com/siriuswapnil",
+      "desc":"A curated directory of Hugo themes"
+    }
+  ]
+}
