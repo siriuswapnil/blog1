@@ -45,3 +45,6 @@ Reinforcement learning differs from supervised learning in not needing labelled 
 ```
 
 
+Tools for learning ML : Statistics and Probability
+
+

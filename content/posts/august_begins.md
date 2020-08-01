@@ -1,5 +1,5 @@
 ---
-title: "August_begins"
+title: "Welcome August"
 date: 2020-08-01T08:08:29+05:30
 draft: false
 tags:
