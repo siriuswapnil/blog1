@@ -38,10 +38,10 @@ The main methods used in unsupervised learning are :
 - Cluster Analysis
 
 
-### Reinforcement Learning
+## Reinforcement Learning
 Straight copied from Wikipedia :
-`
+```
 Reinforcement learning differs from supervised learning in not needing labelled input/output pairs be presented, and in not needing sub-optimal actions to be explicitly corrected. Instead the focus is on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
-`
+```
 
 
