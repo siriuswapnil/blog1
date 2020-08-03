@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning 101"
+title: "#1 Machine Learning 101"
 date: 2020-08-01T11:34:07+05:30
 draft: false
 categories:
