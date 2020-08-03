@@ -16,6 +16,15 @@ Traditionally, as computer programmers, our job is to provide instructions to th
 
 In Machine Learning, the computer is not provided clear instructions. Rather, it is given a set of template data(formally known as *model* in the ML world). The computer attempts to *learn* instructions in accordance to the provided model automatically.
 
+In a nutshell, classical programming allows us to formulate some rules, provide some input data and expect results from the computer. A simple example is an authentication system. We formulate rules to setup a database, check the presence of user's credentials in the database, and permit him access for the time.
+
+On the other hand, there exist some problems that cannot be fixed using common programming techniques. These 'modern' problems, are somewhat are the foundations of field of Aritificial Intelligence.
+
+A common example of this type of problem is the classification of cats from dogs. Both have similar features; two eyes, one nose, two ears( different kinds). Moreover, there might even be multiple cats or dogs in a given image. Hence, if we were to write conditionals to distinctively identify each of these features, it would take us thousands, if not millions of lines of code.
+
+This is where machine learning comes in.
+Here, we provide example data to the computer. For instance, we provide pictures of cats and dogs along with the labels (usually called a dataset) to a training algorithm or a *model*. So the machine using the algorithm *learns* whether it is a cat or a dog, and *predicts* the result.
+
 ---
 
 Now learning can be classified into 3 types, namely : 
